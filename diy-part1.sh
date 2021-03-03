@@ -16,4 +16,5 @@
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 
-svn co https://github.com/kousyougi/openwrt/trunk/trojan package/trojan
+# trojan
+# svn co https://github.com/kousyougi/openwrt/trunk/trojan package/trojan
